@@ -1,5 +1,5 @@
 # eShop-v2.01
-A hospital management system
+A mini shop management system
 
 Author: Nathanael Ato Asaam
 Organization:eQuicksales
