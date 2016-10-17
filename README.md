@@ -11,6 +11,7 @@ ________________________________________________________________________________
 eShop is an online shop management system. It can be used for managing mini shops and super markets.
 It has features for managing users across a particular shop. it is developed using php. you can use it to
 track your inventory, it also has elegant features such as product summaries. It has a nice user interface.
+
 To install, download the eshop.rar file and follow the instructions below. 
 
 INSTALLATION OF eShop
