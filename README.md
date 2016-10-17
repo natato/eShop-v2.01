@@ -22,5 +22,5 @@ Step 2: Place the eshop directory with all its source code in you htdocs or publ
 your web server.
 Step 3:Login using the default admin usernam and password.
 The username is admin and the password is password. after you have login you must change the password of
-the default admin using the setting menu.
+the default admin using the settings menu.
 You can have access to the login page by connecting to http://localhost/eShop/app or www.yourdomainname.com/eshop/app
