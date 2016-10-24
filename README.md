@@ -16,7 +16,7 @@ To install, download the eshop.rar file and follow the instructions below.
 
 INSTALLATION OF eShop
 _________________________________________________________________________________________________________
-Step 1: Databse Creation and Installation.
+Step 1: Database Creation and Installation.
 First create a database with the name eshop
 then copy the content of the sql file in the db sub directory.
 Run the sql queries to create the needed tables and load the data needed by the system.
